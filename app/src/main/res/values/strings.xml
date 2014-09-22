@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android REST API sample</string>
+    <string name="hello_world">Hello! There\'s not much to see here, better look into source code :-)</string>
+
+</resources>
